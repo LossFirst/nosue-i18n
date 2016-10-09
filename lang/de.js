@@ -1,5 +1,5 @@
 module.exports = {
-	lang: "Deutsche",
+	lang: "Deutsch",
 	uncategorized: {
 		search: "Suchen...",
 			leaderboard: "Rangliste",
@@ -17,11 +17,11 @@ module.exports = {
 
 				forgotpass: "Passwort vergessen?",
 
-				success: "Du hast dich erfolgreich angemeldet",
-				error: "Überprüfe bitte Deinen Benutzernamen und/oder Passwort"
+				success: "Du hast dich erfolgreich angemeldet!",
+				error: "Überprüfe bitte Deinen Benutzernamen und/oder Passwort."
 		},
 		logout: {
-			success: "Du hast dich erfolgreich abgemeldet"
+			success: "Du hast dich erfolgreich abgemeldet."
 		}
 	}
 }
