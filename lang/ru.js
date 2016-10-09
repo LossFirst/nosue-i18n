@@ -1,4 +1,5 @@
 module.exports = {
+	lang: "русский",
 	uncategorized: {
 		search: "Поиск...",
 		leaderboard: "Рейтинги",
