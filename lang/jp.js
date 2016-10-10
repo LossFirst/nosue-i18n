@@ -1,10 +1,6 @@
 module.exports = {
 	lang: "日本語",
-<<<<<<< HEAD
 	common: {
-=======
-	uncategorized: {
->>>>>>> refs/remotes/Itsyuka/master
 		search: "検索...",
 		leaderboard: "ランキング",
 		login: "ログイン",
@@ -13,7 +9,6 @@ module.exports = {
 		performance: "パフォーマンス",
 		score: "スコア",
 		dashboard: "ダッシュボード",
-<<<<<<< HEAD
 		any: "Any",
 		field: { // Common Form fields
 			username: "ユーザー名",
@@ -24,8 +19,6 @@ module.exports = {
 		error: {
 			e500: "リクエスト中にエラーが発生しました。 (エラー: 500)"
 		}
-=======
->>>>>>> refs/remotes/Itsyuka/master
 	},
 	auth: {
 		login: {
@@ -38,7 +31,6 @@ module.exports = {
 			error: "ユーザー名かパスワードを確認してください。"
 		},
 		logout: {
-<<<<<<< HEAD
 			success: "ログアウトが完了しました。",
 			error: "ログアウトに失敗しました。"
 		}
@@ -82,9 +74,3 @@ module.exports = {
 		download: "ダウンロード",
 	}
 }
-=======
-			success: "ログアウトが完了しました。"
-		}
-	}
-}
->>>>>>> refs/remotes/Itsyuka/master
