@@ -50,7 +50,7 @@ module.exports = {
 	},
 		scoreboard: {
 		rank: "ランク",
-		accuracy: "Accuracy",
+		accuracy: "Acc",
 		playcount: "プレイカウント",
 		player: "プレイヤー",
 		pp: "PP",
