@@ -17,10 +17,10 @@ module.exports = {
 			submit: "送信"
 		},
 		message: {
-			connect: "How to connect",
+			connect: "接続方法",
 			welcome: {
-				anon: "Welcome to nosue!",
-				user: "Welcome back, {name}!"
+				anon: "nosue!へようこそ",
+				user: "おかえりなさい！ {name}!"
 			}
 		},
 		error: {
